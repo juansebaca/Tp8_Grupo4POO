@@ -1,6 +1,6 @@
 # Tp8_Grupo4POO
 
-Trabajo Práctico N7 POO
+Trabajo Práctico N8 POO
 
 Juan Sebastián Baca Wayar. github: Juan Sebastián BW
 
